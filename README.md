@@ -1,1 +1,1 @@
-# mmg-dashboard
+# mmg-tableau-dashboard
